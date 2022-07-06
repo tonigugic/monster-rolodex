@@ -8,9 +8,6 @@
 # testing
 /coverage
 
-# production
-/build
-
 # misc
 .DS_Store
 .env.local
@@ -20,16 +17,11 @@
 
 # Ignore everything in the "plugins" directory, except ...
 plugins/*
-!plugins/helipad-admin/
-!plugins/child-kit/
 !plugins/fc-infinite-post-loader/
-!plugins/fc-wc-filters-glue/
 !plugins/fc-custom-menus/
 !plugins/fc-plugin-template-status-dashboard/
 !plugins/fc-gravity-forms-glue/
 !plugins/fc-custom-emails/
-!plugins/fc-subscription-toggle/
-!plugins/fc-new-user-activation/
 
 npm-debug.log*
 yarn-debug.log*
