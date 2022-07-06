@@ -20,16 +20,16 @@
 
 # Ignore everything in the "plugins" directory, except ...
 plugins/*
-!wp-content/plugins/helipad-admin/
-!wp-content/plugins/child-kit/
-!wp-content/plugins/fc-infinite-post-loader/
-!wp-content/plugins/fc-wc-filters-glue/
-!wp-content/plugins/fc-custom-menus/
-!wp-content/plugins/fc-plugin-template-status-dashboard/
-!wp-content/plugins/fc-gravity-forms-glue/
-!wp-content/plugins/fc-custom-emails/
-!wp-content/plugins/fc-subscription-toggle/
-!wp-content/plugins/fc-new-user-activation/
+!plugins/helipad-admin/
+!plugins/child-kit/
+!plugins/fc-infinite-post-loader/
+!plugins/fc-wc-filters-glue/
+!plugins/fc-custom-menus/
+!plugins/fc-plugin-template-status-dashboard/
+!plugins/fc-gravity-forms-glue/
+!plugins/fc-custom-emails/
+!plugins/fc-subscription-toggle/
+!plugins/fc-new-user-activation/
 
 npm-debug.log*
 yarn-debug.log*
