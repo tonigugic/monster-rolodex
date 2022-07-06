@@ -19,7 +19,7 @@
 .env.production.local
 
 # Ignore everything in the "plugins" directory, except ...
-wp-content/plugins/*
+plugins/*
 !wp-content/plugins/helipad-admin/
 !wp-content/plugins/child-kit/
 !wp-content/plugins/fc-infinite-post-loader/
