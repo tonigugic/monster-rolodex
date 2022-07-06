@@ -1,0 +1,31 @@
+.ptsd h3 {
+  margin-top: 0 !important;
+}
+
+.fc-ptsd-plugins-list,
+.fc-ptsd-network-plugins-list,
+.fc-ptsd-woocommerce-templates-list {
+  list-style: disc;
+  margin-left: 13px;
+}
+
+.fc-ptsd-network-plugins-list {
+  margin: 1em !important;
+}
+
+.welcome-panel .welcome-panel-column .fc-ptsd-network-plugins-list li {
+  list-style: disc !important;
+  color: #222;
+  font-family: Verdana,Arial,sans-serif;
+  font-size: 1.1em;
+}
+
+.fc-ptsd-network-plugins-list .dashicons {
+  color: #222;
+}
+
+.fc-ptsd-plugins-list li.update,
+.fc-ptsd-network-plugins-list li.update,
+.fc-ptsd-woocommerce-templates-list li.update {
+  color: #ff0000 !important;
+}
